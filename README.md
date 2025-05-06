@@ -34,4 +34,4 @@ Program juga terdiri dari __4__ tabel relasional pada [tp_mvc.sql](Program/tp_mv
 - Pada controller, ketiga file memiliki peran dalam mengontrol keterhubungan program dengan database (open dan close connection), dan mengelola data yang nantinya view page sudah tidak perlu mengatur data selain hanya untuk menampilkannya.
 
 # Dokumentasi
-
+https://github.com/user-attachments/assets/8b5d557d-f59a-4a73-8fa9-345385bfc784
